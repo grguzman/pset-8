@@ -111,7 +111,7 @@ h2 {
  */
 
 #reset-button:hover {
-  background-color: darkred;
+  background-color: Red;
   color: white;
   cursor: pointer;
 }
